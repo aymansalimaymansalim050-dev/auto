@@ -1,0 +1,6 @@
+{
+  "name": "AutoEuropa - Compra, Venta y Comparador de Coches",
+  "description": "Plataforma europea de compra, venta directa y segura con afiliados, comparador de coches y asistente inteligente con IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
